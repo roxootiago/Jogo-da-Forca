@@ -9,14 +9,14 @@
 ## Índice
 
 * [Sobre](#sobre)
-* [Biblioteca Cassiopeia](#biblioteca cassiopeia)
+* [Biblioteca Cassiopeia](#biblioteca-cassiopeia)
 * [Status do projeto](#status)
 
 ## Sobre
   <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmos um jogo da forca utilizando conhecimentos básicos em Python.
   <br><br>Estou trabalhando em um jogo da forca que irá pegar nomes de campeões aleatórios a partir da api de League of Legends <a href="https://cassiopeia.readthedocs.io/en/latest/index.html#" target="_blank">Cassiopeia</a> e irá transferir para o jogo onde o jogador irá adivinhar o campeão aleatório.</p>
 
-## Biblioteca Cassiopeia
+## Biblioteca-Cassiopeia
 <h3>Como instalar a biblioteca?</h3>
 <p align="justify">Para instalar a biblioteca cassiopeia execute no seu terminal o seguinte comando:</p>
 
