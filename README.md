@@ -18,7 +18,7 @@
 
 <div id='about'/>
 
-## Libs
+## Biblioteca Cassiopeia
 <h3>Como instalar a biblioteca?</h3>
 <p align="justify">Para instalar a biblioteca cassiopeia execute no seu terminal o seguinte comando:</p>
 
