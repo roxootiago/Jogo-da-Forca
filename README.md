@@ -13,7 +13,7 @@
 * [Status do projeto](#status)
 
 ## Sobre
-  <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmo um jogo da forca utilizando conhecimentos básicos em Python. Estou trabalhando em um jogo da forca que irá pegar nomes de campeões aleatórios a partir da api de league of legends Cassiopeia e irá transferir para o jogo </p>
+  <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmo um jogo da forca utilizando conhecimentos básicos em Python. Estou trabalhando em um jogo da forca que irá pegar nomes de campeões aleatórios a partir da api de league of legends <a href="https://cassiopeia.readthedocs.io/en/latest/index.html#">Cassiopeia</a> e irá transferir para o jogo.</p>
 
 <div id='about'/>
 
