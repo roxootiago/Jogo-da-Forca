@@ -1,6 +1,6 @@
 # Jogo-da-Forca
 
-> Desafio proposto pelo professor em sala de aula para aplicar o conhecimentos obtidos em Python até agora
+> Desafio proposto pelo professor em sala de aula para aplicar os conhecimentos obtidos em Python até agora
 
 <p align="center">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/League-of-Legends-Logo-2008.png" width="400" title="hover text">
