@@ -14,7 +14,7 @@
 
 ## Sobre
   <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmos um jogo da forca utilizando conhecimentos básicos em Python.
-  <br><br>Estou trabalhando em um jogo da forca que irá pegar nomes de campeões aleatórios a partir da api de League of Legends <a href="https://cassiopeia.readthedocs.io/en/latest/index.html#" target="_blank">Cassiopeia</a> e irá transferir para o jogo onde o jogador irá adivinhar o campeão aleatório.</p>
+  <br><br>Nesse desafio utilizei a biblioteca <a href="https://cassiopeia.readthedocs.io/en/latest/index.html#" target="_blank">Cassiopeia</a> onde peguei o nome e o título dos campeões de League of Legends aleatoriamente e coloquei para o usuário adivinhar.</p>
 
 ## Biblioteca-Cassiopeia
 <h3>Como instalar a biblioteca?</h3>
@@ -31,5 +31,5 @@ import cassiopeia as cass
 ```
 ## Status
 
-<p align="center">🚧 Em construção 🚧</p>
+<p align="center">✅ Finalizado ✅</p>
 
