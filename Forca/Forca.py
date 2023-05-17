@@ -24,16 +24,15 @@ def Forca():
 
             print("Encerrando o jogo...")
 
-    def tentativa():
+    def tentativa(count):
         champTentativa = input("Digite sua tentativa: ").upper()
         if champTentativa == champsRand:
-            print(f"Parabéns! Você acertou!\nCampeão selecionado: {champsRand}")
+            print(f" \U0001f3c6Parabéns! Você acertou!\U0001f3c6\nCampeão selecionado: {nameChamp.capitalize()}: {title.title()} ")
             continuar()
 
         else:
-            print(champTentativa)
             print("Você errou! Tente novamente")
-            jogar()
+            jogar(count+1)
 
     print(" ---x--- JOGO DA FORCA ---x---")
     print("--- ADIVINHE O NOME DO CHAMP ---")
@@ -54,7 +53,7 @@ def Forca():
         else:
             print("Digite um nível válido!")
 
-    print(f"Dica: {title}\nO campeão tem {len(champsRand)} letras")
+    print(f"Dica: {title.title()}\nO campeão tem {len(champsRand)} letras")
 
     for k in range(len(champsRand)):
         emptyList.append("_")
@@ -69,8 +68,7 @@ def Forca():
         if "." in champsRand[t]:
             emptyList[t] = "."
 
-    def jogar():
-        count = 1
+    def jogar(count = 1):
         while count <= tentativas:
 
             print(f"Tentativas: {count} de {tentativas}")
@@ -81,8 +79,9 @@ def Forca():
             kick = input("Digite uma letra ou 'tentar' para tentar a palavra: ").upper()
 
             if kick == "TENTAR":
-                tentativa()
-                break
+                tentativa(count)
+                return
+
             if kick in emptyList:
                 print(f"'{kick}' ja se encontra na palavra!\nDigite uma letra diferente")
             elif len(kick) > 1:
@@ -96,7 +95,7 @@ def Forca():
                         letra_encontrada = True
 
                 if emptyList == listChamp:
-                    print(f"Você completou a palavra\nCampeão selecionado: {nameChamp.capitalize()}: {title}")
+                    print(f"\U0001f3c6Você completou a palavra!\U0001f3c6\nCampeão selecionado: {nameChamp.capitalize()}: {title.title()} ")
                     continuar()
                     break
 
@@ -104,11 +103,8 @@ def Forca():
                     print(f"A palavra não possui a letra '{kick}'")
                     count += 1
                 if count > tentativas:
-                    print(f"Você perdeu!")
+                    print(f"\U0001f480Você perdeu!\U0001f480\nCampeão selecionado foi: {nameChamp.capitalize()}: {title.title()} ")
                     continuar()
                     break
 
     jogar()
-
-
-
