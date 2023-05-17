@@ -10,7 +10,6 @@
 
 * [Sobre](#sobre)
 * [Biblioteca Cassiopeia](#biblioteca-cassiopeia)
-* [Status do projeto](#status)
 
 ## Sobre
   <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmos um jogo da forca utilizando conhecimentos básicos em Python.
@@ -29,7 +28,4 @@ pip install cassiopeia
 ```python
 import cassiopeia as cass
 ```
-## Status
-
-<p align="center">✅ Finalizado ✅</p>
 
