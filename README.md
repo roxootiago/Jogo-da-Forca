@@ -11,16 +11,16 @@
 </div>
 
   
-## Índice
+## 📕Índice
 
 * [Sobre](#sobre)
 * [Biblioteca Cassiopeia](#biblioteca-cassiopeia)
 
-## Sobre
+## 📝Sobre
   <p align="justify">Foi passado um desafio em sala de aula do CDD 4.0(Con.Domínio Digital 4.0) para construirmos um jogo da forca utilizando conhecimentos básicos em Python.
   <br><br>Nesse desafio utilizei a biblioteca <a href="https://cassiopeia.readthedocs.io/en/latest/index.html#" target="_blank">Cassiopeia</a> onde peguei o nome e o título dos campeões de League of Legends aleatoriamente e coloquei para o usuário adivinhar.</p>
 
-## Biblioteca-Cassiopeia
+## 📚Biblioteca-Cassiopeia
 <h3>Como instalar a biblioteca?</h3>
 <p align="justify">Para instalar a biblioteca cassiopeia execute no seu terminal o seguinte comando:</p>
 
