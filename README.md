@@ -1,11 +1,16 @@
 # Jogo-da-Forca
 
-> Desafio proposto pelo professor em sala de aula para aplicar os conhecimentos obtidos em Python até agora
-
 <p align="center">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/League-of-Legends-Logo-2008.png" width="400" title="hover text">
 </p>
+<div align="center">
+  
+![GitHub top language](https://img.shields.io/github/languages/top/roxootiago/Jogo-da-Forca?style=flat-square)
+![GitHub Status](https://img.shields.io/static/v1?label=status&message=finalizado&color=green&styke=flat=square)
+  
+</div>
 
+  
 ## Índice
 
 * [Sobre](#sobre)
