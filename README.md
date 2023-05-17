@@ -27,7 +27,7 @@
 ```bash
 pip install cassiopeia
 ```
-<h3>Como importar para o python</h3>
+<h3>Como importar para o python?</h3>
 <p align="justify">Para usar a biblioteca livremente no Python execute o código abaixo:</p>
 
 ```python
