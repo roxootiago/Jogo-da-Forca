@@ -6,7 +6,7 @@
 <div align="center">
   
 ![GitHub top language](https://img.shields.io/github/languages/top/roxootiago/Jogo-da-Forca?style=flat-square)
-![GitHub Status](https://img.shields.io/static/v1?label=status&message=finalizado&color=green&styke=flat=square)
+![GitHub Status](https://img.shields.io/static/v1?label=status&message=finalizado&color=00AB31&style=flat-square)
   
 </div>
 
